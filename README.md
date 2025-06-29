@@ -5,7 +5,7 @@
     سوريا، موطن الحضارات العريقة، تُعد من أقدم المناطق المأهولة في العالم. عبر آلاف السنين، تألقت المدن السورية كدمشق، حلب، وحمص كمراكز للتجارة والصناعة والفنون. لم تكن سوريا مجرد مكان، بل كانت أيقونة للتميز في الحرف والصناعات التي مزجت بين الجمال والدقة والإبداع.
   </p>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Damascus_silk.jpg" alt="نسيج دمشقي فاخر" style="width:100%;max-width:700px; margin: 15px 0;">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/1/12/Damascus_silk.jpg](https://www.google.com/imgres?q=%D9%86%D8%B3%D9%8A%D8%AC%20%D8%AF%D9%85%D8%B4%D9%82%D9%8A%20%D9%81%D8%A7%D8%AE%D8%B1&imgurl=https%3A%2F%2Fwww.syria.tv%2Fsites%2Fdefault%2Ffiles%2F2023-05%2Fs-l1600%2520%25281%2529.jpg&imgrefurl=https%3A%2F%2Fwww.syria.tv%2F%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2588%25D9%2583%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AF%25D9%2585%25D8%25B4%25D9%2582%25D9%258A-%25D9%2584%25D8%25A8%25D8%25A7%25D8%25B3-%25D9%2588%25D8%25AB%25D9%2582-%25D8%25A3%25D8%25AD%25D8%25AF%25D8%25A7%25D8%25AB%25D8%25A7%25D9%258B-%25D8%25AA%25D8%25A7%25D8%25B1%25D9%258A%25D8%25AE%25D9%258A%25D8%25A9&docid=0SSXxVXtkueA6M&tbnid=PFZMXYkM4ywbKM&vet=12ahUKEwjU2OC6n5eOAxWJVPEDHRlVPXcQM3oECBoQAA..i&w=1600&h=1600&hcb=2&ved=2ahUKEwjU2OC6n5eOAxWJVPEDHRlVPXcQM3oECBoQAA)" alt="نسيج دمشقي فاخر" style="width:100%;max-width:700px; margin: 15px 0;">
 
   <h2>الصناعات الفاخرة السورية</h2>
   <p>
